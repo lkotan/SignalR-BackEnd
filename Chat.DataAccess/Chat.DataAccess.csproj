@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Chat.Entities\Chat.Entities.csproj" />
+    <ProjectReference Include="..\Chat.Models\Chat.Models.csproj" />
+  </ItemGroup>
+
+</Project>
